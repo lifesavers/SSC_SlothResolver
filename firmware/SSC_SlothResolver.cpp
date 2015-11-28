@@ -1,4 +1,4 @@
-// Credit goes to Particle, Adafruit, github.com/annem, and 
+// Credit goes to Particle, Adafruit, github.com/annem, and jenesaisdiq for code contribs in the Particle IB Library, v1.6.0⁺. Thank you!
 
 #include "InternetButton.h"
 #include "math.h"
