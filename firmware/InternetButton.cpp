@@ -1,3 +1,5 @@
+// Credit goes to Particle, Adafruit, github.com/annem, and 
+
 #include "InternetButton.h"
 #include "math.h"
 
