@@ -1,7 +1,6 @@
 // Credit goes to Particle, Adafruit, github.com/annem, and jenesaisdiq for code contribs in the Particle IB Library, v1.6.0⁺. Thank you!
 
 #include "SSC_SlothResolvers.h"
-#include "SSC_Policies.h"
 #include "math.h"
 
 //----------------- Button ----------------//
