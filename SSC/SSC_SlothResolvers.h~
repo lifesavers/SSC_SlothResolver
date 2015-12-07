@@ -1,8 +1,4 @@
 /*
-Small edits, at this point, from the Particle.io "Internet Button" Library Compilation, chiefly on Namespace needs, to pass Particle Library Validation Tests. 
-
-This is an Assembly of Work from many Authors and Engineers.. more than i can possibly list.
-
  Arduino Library for Analog Devices ADXL362 - Micropower 3-axis accelerometer
  go to http://www.analog.com/ADXL362 for datasheet
 
@@ -280,4 +276,4 @@ class Adafruit_NeoPixel {
 };
 
 #endif // ADAFRUIT_NEOPIXEL_H
-#endif // SSC_SlothResolvers_h
+#endif // InternetButton_h
