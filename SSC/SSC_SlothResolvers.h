@@ -21,8 +21,8 @@
 
 #include "application.h"
 
-#ifndef InternetButton_h
-#define InternetButton_h
+#ifndef SSC_SlothResolvers_h
+#define SSC_SlothResolvers_h
 
 class InternetButton {
 

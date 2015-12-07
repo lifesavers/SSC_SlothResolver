@@ -1,7 +1,0 @@
-{
-    "name": "SSC_Resolver",
-    "version": "0.1.8",
-    "author": "Clay⁵man adan@lifesavers.io>, building on the work of Richard Whitney <richard@particle.io>, et. al.",
-    "license": "The Kohlberg Commons, USPTO Application Si/OWTcB - 14/874,435, Conserved by Æ/æ, Please write adan@lifesavers.io or adam@lifesavers.io.  Launch branch from a large number of Collaborations, including, at nearest neighbor slot,  Particle.io's Internet Button Library (which this inherits from) and the Arduino Esplora Prior (from which my code prototypes were built).",
-    "description": "Functions to adapt the Internet Button/Esplora models fast to 'hammer home' the SSC First Layer! Many thanks to the Particle Team for prepping such a strong booster rocket! Write me so that we can Partner Up."
-}
